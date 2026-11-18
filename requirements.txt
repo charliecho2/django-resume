@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 asgiref==3.11.1
 django==4.2.30
 gunicorn==23.0.0
@@ -7,7 +6,3 @@ sqlparse==0.5.5
 typing-extensions==4.16.0
 tzdata==2026.6
 whitenoise==6.11.0
-=======
-Django>=4.2,<4.3
-gunicorn>=21.2
->>>>>>> b9e15381d3bf7bb97674c1cf1369c596e9db2ec8
